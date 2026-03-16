@@ -1,0 +1,14 @@
+customer_id,customer_name,email_address,phone,signup_date,last_purchase,total_spent,account_status
+101,Michael Jordan,mjordan@gmail.com,5551111,2023-01-12,2024-03-01 00:00:00,2300,Active
+102,Serena Williams,serena@yahoo.com,5552223333,2023-02-05,2024-02-15 00:00:00,1800,active
+103,Lionel Messi,messi@hotmail.com,5554444,2023-03-11,2023-11-22 00:00:00,950,ACTIVE
+104,Cristiano Ronaldo,ronaldo@gmail.com,,2023-04-01,2024-01-30 00:00:00,3200,Active
+105,Novak Djokovic,novak@gmail.com,5557777,2023-04-25,unknown,1200,inactive
+106,Roger Federer,federer@gmail.com,5559990000,2023-05-17,2024-03-05 00:00:00,5000,Active
+107,Rafael Nadal,nadal@gmail.com,5558888,2023-06-09,2024-02-18 00:00:00,2700,active
+109,Kobe Bryant,kobe@yahoo.com,,2023-07-22,2024-03-08 00:00:00,1500,active
+110,LeBron James,lebron@gmail.com,5555555,2023-08-14,unknown,3400,ACTIVE
+111,Stephen Curry,curry@gmail.com,5551212,2023-09-10,2024-02-28 00:00:00,1900,active
+112,Kevin Durant,kd@gmail.com,5553334444,2023-10-05,2024-03-02 00:00:00,2100,Active
+113,Giannis Antetokounmpo,giannis@gmail.com,5559999,2023-11-01,unknown,1700,active
+114,Luka Doncic,luka@gmail.com,5558887777,2023-12-12,2024-03-10 00:00:00,2200,active

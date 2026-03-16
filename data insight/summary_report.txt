@@ -1,0 +1,10 @@
+
+DATASET SUMMARY REPORT
+----------------------
+
+Total records: 13
+
+Total missing values: 2
+
+Total revenue: 29950
+Average spend per customer: 2303.85
